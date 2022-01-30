@@ -57,7 +57,7 @@ By @Anon_Checker
 
 A telegram bot to generate pyrogram and telethon string session by @StarterChannel
 
-Source Code : [Click Here](https://github.com/HarshuXD/StringSessionBot)
+Source Code : [Click Here](https://github.com/HarshuXD/StringBot)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
